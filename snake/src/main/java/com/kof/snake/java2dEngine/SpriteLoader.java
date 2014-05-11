@@ -1,4 +1,4 @@
-package source.java2dEngine;
+package com.kof.snake.java2dEngine;
 
 import java.awt.Image;
 import java.awt.Transparency;
@@ -10,7 +10,7 @@ import java.util.Map;
 
 import javax.imageio.ImageIO;
 
-import source.exceptions.SomethingsWrongException;
+import com.kof.snake.exceptions.SomethingsWrongException;
 
 public class SpriteLoader {
 

@@ -1,14 +1,14 @@
-package source.entities.basicEntities;
+package com.kof.snake.entities.basicEntities;
 
 import java.awt.Rectangle;
 
-import source.GameLogic;
-import source.exceptions.SomethingsWrongException;
-import source.java2dEngine.GameWindow;
-import source.java2dEngine.Sprite;
-import source.java2dEngine.SpriteLoader;
-import source.properties.PropertiesKey;
-import source.properties.PropertiesLoader;
+import com.kof.snake.GameLogic;
+import com.kof.snake.exceptions.SomethingsWrongException;
+import com.kof.snake.java2dEngine.GameWindow;
+import com.kof.snake.java2dEngine.Sprite;
+import com.kof.snake.java2dEngine.SpriteLoader;
+import com.kof.snake.properties.PropertiesKey;
+import com.kof.snake.properties.PropertiesLoader;
 
 public class BaseEntity {
 	

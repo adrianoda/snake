@@ -1,8 +1,8 @@
-package source;
+package com.kof.snake;
 
-import source.exceptions.SomethingsWrongException;
-import source.java2dEngine.GameWindow;
-import source.utils.GameConstants;
+import com.kof.snake.exceptions.SomethingsWrongException;
+import com.kof.snake.java2dEngine.GameWindow;
+import com.kof.snake.utils.GameConstants;
 
 public class GameLauncher {
 	public final static String GAME_TITLE = "Snake!"; 

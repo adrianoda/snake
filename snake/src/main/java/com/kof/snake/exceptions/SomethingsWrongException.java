@@ -1,4 +1,4 @@
-package source.exceptions;
+package com.kof.snake.exceptions;
 
 public class SomethingsWrongException extends Exception {
 

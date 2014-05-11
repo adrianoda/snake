@@ -1,10 +1,10 @@
-package source.entities.basicEntities;
+package com.kof.snake.entities.basicEntities;
 
-import source.exceptions.SomethingsWrongException;
-import source.java2dEngine.GameWindow;
-import source.properties.PropertiesKey;
-import source.utils.Directions;
-import source.utils.GameConstants;
+import com.kof.snake.exceptions.SomethingsWrongException;
+import com.kof.snake.java2dEngine.GameWindow;
+import com.kof.snake.properties.PropertiesKey;
+import com.kof.snake.utils.Directions;
+import com.kof.snake.utils.GameConstants;
 
 public class MovableEntity extends BaseEntity {
 			

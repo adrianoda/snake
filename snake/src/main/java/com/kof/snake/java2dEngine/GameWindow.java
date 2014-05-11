@@ -1,4 +1,4 @@
-package source.java2dEngine;
+package com.kof.snake.java2dEngine;
 
 import java.awt.AWTException;
 import java.awt.Canvas;
@@ -16,12 +16,12 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.WindowConstants;
 
-import source.GameLogic;
-import source.exceptions.SomethingsWrongException;
-import source.properties.PropertiesKey;
-import source.properties.PropertiesLoader;
-import source.utils.GameConstants;
-import source.utils.Keyboard;
+import com.kof.snake.GameLogic;
+import com.kof.snake.exceptions.SomethingsWrongException;
+import com.kof.snake.properties.PropertiesKey;
+import com.kof.snake.properties.PropertiesLoader;
+import com.kof.snake.utils.GameConstants;
+import com.kof.snake.utils.Keyboard;
 
 public class GameWindow {
 	

@@ -1,4 +1,4 @@
-package source.properties;
+package com.kof.snake.properties;
 
 /**
  * Store constants about:

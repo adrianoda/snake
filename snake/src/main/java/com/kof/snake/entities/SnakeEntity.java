@@ -1,18 +1,18 @@
-package source.entities;
+package com.kof.snake.entities;
 
 import java.util.ArrayList;
 
-import source.GameLogic;
-import source.entities.basicEntities.BaseEntity;
-import source.entities.basicEntities.MovableEntity;
-import source.entities.basicEntities.MovableGridEntity;
-import source.exceptions.SomethingsWrongException;
-import source.java2dEngine.GameWindow;
-import source.properties.PropertiesKey;
-import source.properties.PropertiesLoader;
-import source.utils.Directions;
-import source.utils.GameConstants;
-import source.utils.GridPosition;
+import com.kof.snake.GameLogic;
+import com.kof.snake.entities.basicEntities.BaseEntity;
+import com.kof.snake.entities.basicEntities.MovableEntity;
+import com.kof.snake.entities.basicEntities.MovableGridEntity;
+import com.kof.snake.exceptions.SomethingsWrongException;
+import com.kof.snake.java2dEngine.GameWindow;
+import com.kof.snake.properties.PropertiesKey;
+import com.kof.snake.properties.PropertiesLoader;
+import com.kof.snake.utils.Directions;
+import com.kof.snake.utils.GameConstants;
+import com.kof.snake.utils.GridPosition;
 
 public class SnakeEntity extends MovableGridEntity {	
 	

@@ -1,4 +1,4 @@
-package source.utils;
+package com.kof.snake.utils;
 
 public class GameConstants {
 	public final static String VERSION = "v0.1dev1";

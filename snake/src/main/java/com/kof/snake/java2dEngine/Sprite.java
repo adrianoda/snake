@@ -1,4 +1,4 @@
-package source.java2dEngine;
+package com.kof.snake.java2dEngine;
 
 import java.awt.Image;
 

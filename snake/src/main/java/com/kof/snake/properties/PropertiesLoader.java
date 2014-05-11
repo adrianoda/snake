@@ -1,9 +1,9 @@
-package source.properties;
+package com.kof.snake.properties;
 
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
 
-import source.exceptions.SomethingsWrongException;
+import com.kof.snake.exceptions.SomethingsWrongException;
 
 public class PropertiesLoader {	
 	

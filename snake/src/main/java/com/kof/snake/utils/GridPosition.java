@@ -1,4 +1,4 @@
-package source.utils;
+package com.kof.snake.utils;
 
 public class GridPosition {
 	private int x;

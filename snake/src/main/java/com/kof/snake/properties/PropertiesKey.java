@@ -1,4 +1,4 @@
-package source.properties;
+package com.kof.snake.properties;
 
 /**
  * Allowed property key values

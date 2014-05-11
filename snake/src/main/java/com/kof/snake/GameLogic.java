@@ -1,4 +1,4 @@
-package source;
+package com.kof.snake;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -6,14 +6,14 @@ import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 import java.util.Random;
 
-import source.entities.AppleEntity;
-import source.entities.SnakeEntity;
-import source.entities.basicEntities.BaseEntity;
-import source.exceptions.SomethingsWrongException;
-import source.java2dEngine.GameWindow;
-import source.utils.Directions;
-import source.utils.GameConstants;
-import source.utils.GridPosition;
+import com.kof.snake.entities.AppleEntity;
+import com.kof.snake.entities.SnakeEntity;
+import com.kof.snake.entities.basicEntities.BaseEntity;
+import com.kof.snake.exceptions.SomethingsWrongException;
+import com.kof.snake.java2dEngine.GameWindow;
+import com.kof.snake.utils.Directions;
+import com.kof.snake.utils.GameConstants;
+import com.kof.snake.utils.GridPosition;
 
 public class GameLogic extends FrameRenderer {
 	

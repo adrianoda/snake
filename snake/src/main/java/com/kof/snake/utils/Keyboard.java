@@ -1,4 +1,4 @@
-package source.utils;
+package com.kof.snake.utils;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

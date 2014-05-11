@@ -1,9 +1,9 @@
-package source;
+package com.kof.snake;
 
 import java.util.concurrent.locks.LockSupport;
 
-import source.exceptions.SomethingsWrongException;
-import source.java2dEngine.GameWindow;
+import com.kof.snake.exceptions.SomethingsWrongException;
+import com.kof.snake.java2dEngine.GameWindow;
 
 public abstract class FrameRenderer {
 	

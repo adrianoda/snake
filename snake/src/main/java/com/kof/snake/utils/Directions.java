@@ -1,4 +1,4 @@
-package source.utils;
+package com.kof.snake.utils;
 
 public enum Directions {
 	UP(0,-1),
